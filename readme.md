@@ -1,1 +1,1 @@
-https://kahu87.github.io/goit-markup-hw-01/
+https://kahu87.github.io/goit-markup-hw-02/
